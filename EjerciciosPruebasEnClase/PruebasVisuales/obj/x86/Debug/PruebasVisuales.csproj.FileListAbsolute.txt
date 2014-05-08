@@ -1,0 +1,13 @@
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.exe
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.pdb
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.Form1.resources
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.Properties.Resources.resources
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.exe
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.pdb
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.exe.manifest
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\bin\Debug\PruebasVisuales.application
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.exe.manifest
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\PruebasVisuales\obj\x86\Debug\PruebasVisuales.application

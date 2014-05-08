@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundo", "HolaMundo\HolaMundo.csproj", "{CBDAB7FA-FB1F-43EC-8C9A-BB6FF443776D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioDiasDeVida", "EjercicioDiasDeVida\EjercicioDiasDeVida.csproj", "{8297E9E0-6A25-4601-9B0B-85F9551C4851}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasVisuales", "PruebasVisuales\PruebasVisuales.csproj", "{FCAEC478-CC7A-46B7-A919-13CFAE410458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDAB7FA-FB1F-43EC-8C9A-BB6FF443776D}.Debug|x86.ActiveCfg = Debug|x86
+		{CBDAB7FA-FB1F-43EC-8C9A-BB6FF443776D}.Debug|x86.Build.0 = Debug|x86
+		{CBDAB7FA-FB1F-43EC-8C9A-BB6FF443776D}.Release|x86.ActiveCfg = Release|x86
+		{CBDAB7FA-FB1F-43EC-8C9A-BB6FF443776D}.Release|x86.Build.0 = Release|x86
+		{8297E9E0-6A25-4601-9B0B-85F9551C4851}.Debug|x86.ActiveCfg = Debug|x86
+		{8297E9E0-6A25-4601-9B0B-85F9551C4851}.Debug|x86.Build.0 = Debug|x86
+		{8297E9E0-6A25-4601-9B0B-85F9551C4851}.Release|x86.ActiveCfg = Release|x86
+		{8297E9E0-6A25-4601-9B0B-85F9551C4851}.Release|x86.Build.0 = Release|x86
+		{FCAEC478-CC7A-46B7-A919-13CFAE410458}.Debug|x86.ActiveCfg = Debug|x86
+		{FCAEC478-CC7A-46B7-A919-13CFAE410458}.Debug|x86.Build.0 = Debug|x86
+		{FCAEC478-CC7A-46B7-A919-13CFAE410458}.Release|x86.ActiveCfg = Release|x86
+		{FCAEC478-CC7A-46B7-A919-13CFAE410458}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

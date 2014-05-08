@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="PruebasVisuales.exe" version="1.0.0.3" publicKeyToken="8310d48e052b4e42" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="notepad.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PruebasVisuales" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="PruebasVisuales.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el 
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la 
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PruebasVisuales.exe" size="147456">
+      <assemblyIdentity name="PruebasVisuales" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>29Siqpf7H5Kr+64HEhkZer6rkF4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="notepad.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QrWJIjYN3iZFrwMvs29OKtXhoDw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TryVisualStudioProfessional.ico" size="58234">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aJSY57gvit48Fq75tdiy+Z+0oPQ=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=NBRAR\Ramirez" issuerKeyHash="8c1acaeb9604b6759e0a84efe4dc7aa2a377b920" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ugqbGjqQojVInbDcDE7S76Fv3fY=</DigestValue></Reference></SignedInfo><SignatureValue>dqvntUQM3NNjTl58e1kCR2qZROLWqAT+raGSk0XJq2vEI+YYuP1YQmcASjhUukpw8bvy9aTDmHXiDTXeJYtzSSRb0jatT1aPDkuBK/HYXSwzbjJUUjeK1LmkzzgeofEBR+Mn5uNmp79pqheEWUV58UtcUfBdI0IDnd9IIZOS5bs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xWvgN27g+GQj3q0xl6D9YEoXRpc9T+/DwQ7cIQTaqUmsaW3v/jLaUiHrE2imC8eSFc1GikSjqH2Y74DcDWlMio9UHFjzs3hLQETM7ZNcsHM9Fm7vK/961HwrVxFQ5Ls/UwohwdNMeVPSDAD1r63JTaHXOHlnBsdT7Zgzlw9j9LM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f6dd6fa1efd24e0cdcb09d4835a2903a1a9b0aba" Description="" Url=""><as:assemblyIdentity name="PruebasVisuales.exe" version="1.0.0.3" publicKeyToken="8310d48e052b4e42" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NBRAR\Ramirez</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>M7KYiPKYp04WHWcuC7rfDzC4ea0=</DigestValue></Reference></SignedInfo><SignatureValue>WF41bv/ec/7/NHKwkQy1mQDk45rZVI6ZY0eK9+3DRhSfWn/HT0J1SX5DLpVuExiq+THJ2Nr914G9+veYVtkoY9rRC4BOUrRt4ejN0oaIr6S5t9uxaiuH/jHQdZi1AiMB+neO/ZAdjr0YdzZWKJto0hkmH7heiQnVRnVEfZHaxTU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xWvgN27g+GQj3q0xl6D9YEoXRpc9T+/DwQ7cIQTaqUmsaW3v/jLaUiHrE2imC8eSFc1GikSjqH2Y74DcDWlMio9UHFjzs3hLQETM7ZNcsHM9Fm7vK/961HwrVxFQ5Ls/UwohwdNMeVPSDAD1r63JTaHXOHlnBsdT7Zgzlw9j9LM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQO+W6TnpaAp9Pvt52c00LjTANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoATgBCAFIAQQBSAFwAUgBhAG0AaQByAGUAejAeFw0xNDA0MjUwMTAwMzVaFw0xNTA0MjUwNzAwMzVaMCUxIzAhBgNVBAMeGgBOAEIAUgBBAFIAXABSAGEAbQBpAHIAZQB6MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDFa+A3buD4ZCPerTGXoP1gShdGlz1P78PBDtwhBNqpSaxpbe/+MtpSIesTaKYLx5IVzUaKRKOofZjvgNwNaUyKj1QcWPOzeEtARMztk1ywcz0Wbu8r/3rUfCtXEVDkuz9TCiHB00x5U9IMAPWvrclNodc4eWcGx1PtmDOXD2P0swIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGRIaPUJT0cKv4JnHX8pf+YGOCUzU2GfJ3Zj8mLelySiWyo3amxUtto+czzj7+qhTgP2lYgT9aYLygFjAfRvygceAhrWN17F7nGcimXiwglIoqTc/UcSDdeaeYFb/uI8jaw8vjxTpfJ6uPpYwU5zIUUDlrqkrKtVfQH2au5pWv9B</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

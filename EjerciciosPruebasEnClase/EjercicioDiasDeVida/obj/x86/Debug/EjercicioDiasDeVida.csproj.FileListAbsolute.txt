@@ -1,0 +1,5 @@
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\EjercicioDiasDeVida\bin\Debug\EjercicioDiasDeVida.exe
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\EjercicioDiasDeVida\bin\Debug\EjercicioDiasDeVida.pdb
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\EjercicioDiasDeVida\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\EjercicioDiasDeVida\obj\x86\Debug\EjercicioDiasDeVida.exe
+C:\Rubén Alejandro Ramirez\Seminario\EjerciciosPruebasEnClase\EjercicioDiasDeVida\obj\x86\Debug\EjercicioDiasDeVida.pdb
